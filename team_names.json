@@ -1,0 +1,2891 @@
+{
+  "Abilene Christian Wildcats": {
+    "variations": [
+      "Abilene Chr",
+      "Abilene Christian",
+      "Abilene Christian WAC",
+      "Abilene Christian Wildcats"
+    ]
+  },
+  "Air Force Falcons": {
+    "variations": [
+      "Air Force",
+      "Air Force Falcons",
+      "Air Force MWC"
+    ]
+  },
+  "Akron Zips": {
+    "variations": [
+      "Akron",
+      "Akron MAC",
+      "Akron Zips"
+    ]
+  },
+  "Alabama A&M Bulldogs": {
+    "variations": [
+      "Alabama A&M",
+      "Alabama A&M Bulldogs",
+      "Alabama A&M SWAC"
+    ]
+  },
+  "Alabama Crimson Tide": {
+    "variations": [
+      "Alabama",
+      "Alabama Crimson Tide",
+      "Alabama SEC"
+    ]
+  },
+  "Alabama St Hornets": {
+    "variations": [
+      "Alabama St",
+      "Alabama St Hornets",
+      "Alabama St.",
+      "Alabama St. SWAC",
+      "Alabama State",
+      "Alabama State Hornets"
+    ]
+  },
+  "Albany Great Danes": {
+    "variations": [
+      "Albany",
+      "Albany AE",
+      "Albany Great Danes",
+      "SUNY Albany"
+    ]
+  },
+  "Alcorn St Braves": {
+    "variations": [
+      "Alcorn St",
+      "Alcorn St Braves",
+      "Alcorn St.",
+      "Alcorn St. SWAC",
+      "Alcorn State",
+      "Alcorn State Braves"
+    ]
+  },
+  "American Eagles": {
+    "variations": [
+      "American",
+      "American Eagles",
+      "American PL",
+      "American Univ",
+      "American University Eagles"
+    ]
+  },
+  "Appalachian St Mountaineers": {
+    "variations": [
+      "Appalachian St",
+      "Appalachian St Mountaineers",
+      "Appalachian St.",
+      "Appalachian St. SB",
+      "Appalachian State",
+      "Appalachian State Mountaineers"
+    ]
+  },
+  "Arizona St Sun Devils": {
+    "variations": [
+      "Arizona St",
+      "Arizona St Sun Devils",
+      "Arizona St.",
+      "Arizona St. B",
+      "Arizona State",
+      "Arizona State Sun Devils"
+    ]
+  },
+  "Arizona Wildcats": {
+    "variations": [
+      "Arizona",
+      "Arizona B",
+      "Arizona Wildcats"
+    ]
+  },
+  "Arkansas Razorbacks": {
+    "variations": [
+      "Arkansas",
+      "Arkansas Razorbacks",
+      "Arkansas SEC"
+    ]
+  },
+  "Arkansas St Red Wolves": {
+    "variations": [
+      "Arkansas St",
+      "Arkansas St Red Wolves",
+      "Arkansas St.",
+      "Arkansas St. SB",
+      "Arkansas State",
+      "Arkansas State Red Wolves"
+    ]
+  },
+  "Arkansas-Little Rock Trojans": {
+    "variations": [
+      "Ark Little Rock",
+      "Arkansas-Little Rock",
+      "Arkansas-Little Rock Trojans",
+      "Little Rock",
+      "Little Rock OVC",
+      "Little Rock Trojans"
+    ]
+  },
+  "Arkansas-Pine Bluff Golden Lions": {
+    "variations": [
+      "Ark Pine Bluff",
+      "Ark Pine Bluff Golden Lions",
+      "Arkansas Pine Bluff",
+      "Arkansas Pine Bluff SWAC",
+      "Arkansas-Pine Bluff",
+      "Arkansas-Pine Bluff Golden Lions"
+    ]
+  },
+  "Army Knights": {
+    "variations": [
+      "Army",
+      "Army Black Knights",
+      "Army Knights",
+      "Army PL"
+    ]
+  },
+  "Auburn Tigers": {
+    "variations": [
+      "Auburn",
+      "Auburn SEC",
+      "Auburn Tigers"
+    ]
+  },
+  "Austin Peay Governors": {
+    "variations": [
+      "Austin Peay",
+      "Austin Peay ASun",
+      "Austin Peay Governors"
+    ]
+  },
+  "BYU Cougars": {
+    "variations": [
+      "BYU",
+      "BYU B",
+      "BYU Cougars",
+      "Brigham Young Cougars"
+    ]
+  },
+  "Ball State Cardinals": {
+    "variations": [
+      "Ball St",
+      "Ball St.",
+      "Ball St. MAC",
+      "Ball State",
+      "Ball State Cardinals"
+    ]
+  },
+  "Baylor Bears": {
+    "variations": [
+      "Baylor",
+      "Baylor B",
+      "Baylor Bears"
+    ]
+  },
+  "Bellarmine Knights": {
+    "variations": [
+      "Bellarmine",
+      "Bellarmine ASun",
+      "Bellarmine Knights"
+    ]
+  },
+  "Belmont Bruins": {
+    "variations": [
+      "Belmont",
+      "Belmont Bruins",
+      "Belmont MVC"
+    ]
+  },
+  "Bethune-Cookman Wildcats": {
+    "variations": [
+      "Bethune Cookman",
+      "Bethune Cookman SWAC",
+      "Bethune Cookman Wildcats",
+      "Bethune-Cookman",
+      "Bethune-Cookman Wildcats"
+    ]
+  },
+  "Binghamton Bearcats": {
+    "variations": [
+      "Binghamton",
+      "Binghamton AE",
+      "Binghamton Bearcats"
+    ]
+  },
+  "Boise State Broncos": {
+    "variations": [
+      "Boise St",
+      "Boise St.",
+      "Boise St. MWC",
+      "Boise State",
+      "Boise State Broncos"
+    ]
+  },
+  "Boston College Eagles": {
+    "variations": [
+      "Boston College",
+      "Boston College ACC",
+      "Boston College Eagles",
+      "UMBC"
+    ]
+  },
+  "Boston Univ. Terriers": {
+    "variations": [
+      "Boston Univ",
+      "Boston Univ. Terriers",
+      "Boston University",
+      "Boston University PL",
+      "Boston University Terriers"
+    ]
+  },
+  "Bowling Green Falcons": {
+    "variations": [
+      "Bowling Green",
+      "Bowling Green Falcons",
+      "Bowling Green MAC"
+    ]
+  },
+  "Bradley Braves": {
+    "variations": [
+      "Bradley",
+      "Bradley Braves",
+      "Bradley MVC",
+      "Bradley University Braves"
+    ]
+  },
+  "Brown Bears": {
+    "variations": [
+      "Brown",
+      "Brown Bears",
+      "Brown Ivy"
+    ]
+  },
+  "Bryant Bulldogs": {
+    "variations": [
+      "Bryant",
+      "Bryant AE",
+      "Bryant Bulldogs"
+    ]
+  },
+  "Bucknell Bison": {
+    "variations": [
+      "Bucknell",
+      "Bucknell Bison",
+      "Bucknell PL"
+    ]
+  },
+  "Buffalo Bulls": {
+    "variations": [
+      "Buffalo",
+      "Buffalo Bulls",
+      "Buffalo MAC"
+    ]
+  },
+  "Butler Bulldogs": {
+    "variations": [
+      "Butler",
+      "Butler BE",
+      "Butler Bulldogs"
+    ]
+  },
+  "CSU Bakersfield Roadrunners": {
+    "variations": [
+      "CS Bakersfield",
+      "CSU Bakersfield Roadrunners",
+      "Cal St. Bakersfield",
+      "Cal St. Bakersfield BW",
+      "Cal State Bakersfield"
+    ]
+  },
+  "CSU Fullerton Titans": {
+    "variations": [
+      "CS Fullerton",
+      "CSU Fullerton Titans",
+      "Cal St. Fullerton",
+      "Cal St. Fullerton BW",
+      "Cal State Fullerton",
+      "Cal State Fullerton Titans"
+    ]
+  },
+  "CSU Northridge Matadors": {
+    "variations": [
+      "CS Northridge",
+      "CSU Northridge Matadors",
+      "CSUN",
+      "CSUN BW",
+      "Cal St. Northridge",
+      "Cal State Northridge",
+      "Cal State Northridge Matadors"
+    ]
+  },
+  "Cal Baptist Lancers": {
+    "variations": [
+      "Cal Baptist",
+      "Cal Baptist Lancers",
+      "Cal Baptist WAC",
+      "California Baptist",
+      "California Baptist Lancers"
+    ]
+  },
+  "Cal Poly Mustangs": {
+    "variations": [
+      "Cal Poly",
+      "Cal Poly BW",
+      "Cal Poly Mustangs"
+    ]
+  },
+  "California Golden Bears": {
+    "variations": [
+      "California",
+      "California ACC",
+      "California Golden Bears"
+    ]
+  },
+  "Campbell Fighting Camels": {
+    "variations": [
+      "Campbell",
+      "Campbell CAA",
+      "Campbell Fighting Camels"
+    ]
+  },
+  "Canisius Golden Griffins": {
+    "variations": [
+      "Canisius",
+      "Canisius Golden Griffins",
+      "Canisius MAAC"
+    ]
+  },
+  "Central Arkansas Bears": {
+    "variations": [
+      "Cent Arkansas",
+      "Central Arkansas",
+      "Central Arkansas ASun",
+      "Central Arkansas Bears"
+    ]
+  },
+  "Central Connecticut St Blue Devils": {
+    "variations": [
+      "Central Conn",
+      "Central Connecticut",
+      "Central Connecticut Blue Devils",
+      "Central Connecticut NEC",
+      "Central Connecticut St Blue Devils"
+    ]
+  },
+  "Central Michigan Chippewas": {
+    "variations": [
+      "C Michigan",
+      "Central Michigan",
+      "Central Michigan Chippewas",
+      "Central Michigan MAC"
+    ]
+  },
+  "Charleston Cougars": {
+    "variations": [
+      "Charleston",
+      "Charleston CAA",
+      "Charleston Cougars",
+      "Col Charleston",
+      "College of Charleston"
+    ]
+  },
+  "Charleston Southern Buccaneers": {
+    "variations": [
+      "Charleston So",
+      "Charleston Southern",
+      "Charleston Southern BSth",
+      "Charleston Southern Buccaneers"
+    ]
+  },
+  "Charlotte 49ers": {
+    "variations": [
+      "Charlotte",
+      "Charlotte 49ers",
+      "Charlotte Amer"
+    ]
+  },
+  "Chattanooga Mocs": {
+    "variations": [
+      "Chattanooga",
+      "Chattanooga Mocs",
+      "Chattanooga SC"
+    ]
+  },
+  "Chicago St Cougars": {
+    "variations": [
+      "Chicago St",
+      "Chicago St Cougars",
+      "Chicago St.",
+      "Chicago St. NEC",
+      "Chicago State",
+      "Chicago State Cougars"
+    ]
+  },
+  "Cincinnati Bearcats": {
+    "variations": [
+      "Cincinnati",
+      "Cincinnati B",
+      "Cincinnati Bearcats"
+    ]
+  },
+  "Clemson Tigers": {
+    "variations": [
+      "Clemson",
+      "Clemson ACC",
+      "Clemson Tigers"
+    ]
+  },
+  "Cleveland St Vikings": {
+    "variations": [
+      "Cleveland St",
+      "Cleveland St Vikings",
+      "Cleveland St.",
+      "Cleveland St. Horz",
+      "Cleveland State",
+      "Cleveland State Vikings"
+    ]
+  },
+  "Coastal Carolina Chanticleers": {
+    "variations": [
+      "Coastal Car",
+      "Coastal Carolina",
+      "Coastal Carolina Chanticleers",
+      "Coastal Carolina SB"
+    ]
+  },
+  "Colgate Raiders": {
+    "variations": [
+      "Colgate",
+      "Colgate PL",
+      "Colgate Raiders"
+    ]
+  },
+  "Colorado Buffaloes": {
+    "variations": [
+      "Colorado",
+      "Colorado B",
+      "Colorado Buffaloes"
+    ]
+  },
+  "Colorado St Rams": {
+    "variations": [
+      "Colorado St",
+      "Colorado St Rams",
+      "Colorado St.",
+      "Colorado St. MWC",
+      "Colorado State",
+      "Colorado State Rams"
+    ]
+  },
+  "Columbia Lions": {
+    "variations": [
+      "Columbia",
+      "Columbia Ivy",
+      "Columbia Lions"
+    ]
+  },
+  "Coppin St Eagles": {
+    "variations": [
+      "Coppin St",
+      "Coppin St Eagles",
+      "Coppin St.",
+      "Coppin St. MEAC",
+      "Coppin State",
+      "Coppin State Eagles"
+    ]
+  },
+  "Cornell Big Red": {
+    "variations": [
+      "Cornell",
+      "Cornell Big Red",
+      "Cornell Ivy"
+    ]
+  },
+  "Creighton Bluejays": {
+    "variations": [
+      "Creighton",
+      "Creighton BE",
+      "Creighton Bluejays"
+    ]
+  },
+  "Dartmouth Big Green": {
+    "variations": [
+      "Dartmouth",
+      "Dartmouth Big Green",
+      "Dartmouth Ivy"
+    ]
+  },
+  "Davidson Wildcats": {
+    "variations": [
+      "Davidson",
+      "Davidson A",
+      "Davidson Wildcats"
+    ]
+  },
+  "Dayton Flyers": {
+    "variations": [
+      "Dayton",
+      "Dayton A",
+      "Dayton Flyers"
+    ]
+  },
+  "DePaul Blue Demons": {
+    "variations": [
+      "DePaul",
+      "DePaul BE",
+      "DePaul Blue Demons"
+    ]
+  },
+  "Delaware Blue Hens": {
+    "variations": [
+      "Delaware",
+      "Delaware Blue Hens",
+      "Delaware CAA",
+      "Delaware Fightin' Blue Hens"
+    ]
+  },
+  "Delaware St Hornets": {
+    "variations": [
+      "Delaware St",
+      "Delaware St Hornets",
+      "Delaware St.",
+      "Delaware St. MEAC",
+      "Delaware State",
+      "Delaware State Hornets"
+    ]
+  },
+  "Denver Pioneers": {
+    "variations": [
+      "Denver",
+      "Denver Pioneers",
+      "Denver Sum"
+    ]
+  },
+  "Detroit Mercy Titans": {
+    "variations": [
+      "Detroit",
+      "Detroit Mercy",
+      "Detroit Mercy Horz",
+      "Detroit Mercy Titans",
+      "Detroit Titans"
+    ]
+  },
+  "Drake Bulldogs": {
+    "variations": [
+      "Drake",
+      "Drake Bulldogs",
+      "Drake MVC"
+    ]
+  },
+  "Drexel Dragons": {
+    "variations": [
+      "Drexel",
+      "Drexel CAA",
+      "Drexel Dragons"
+    ]
+  },
+  "Duke Blue Devils": {
+    "variations": [
+      "Duke",
+      "Duke ACC",
+      "Duke Blue Devils"
+    ]
+  },
+  "Duquesne Dukes": {
+    "variations": [
+      "Duquesne",
+      "Duquesne A",
+      "Duquesne Dukes"
+    ]
+  },
+  "East Carolina Pirates": {
+    "variations": [
+      "East Carolina",
+      "East Carolina Amer",
+      "East Carolina Pirates"
+    ]
+  },
+  "East Tennessee St Buccaneers": {
+    "variations": [
+      "ETSU",
+      "ETSU Buccaneers",
+      "East Tennessee St Buccaneers",
+      "East Tennessee St.",
+      "East Tennessee St. SC",
+      "East Tennessee State"
+    ]
+  },
+  "Eastern Illinois Panthers": {
+    "variations": [
+      "E Illinois",
+      "Eastern Illinois",
+      "Eastern Illinois OVC",
+      "Eastern Illinois Panthers"
+    ]
+  },
+  "Eastern Kentucky Colonels": {
+    "variations": [
+      "E Kentucky",
+      "Eastern Kentucky",
+      "Eastern Kentucky ASun",
+      "Eastern Kentucky Colonels"
+    ]
+  },
+  "Eastern Michigan Eagles": {
+    "variations": [
+      "E Michigan",
+      "Eastern Michigan",
+      "Eastern Michigan Eagles",
+      "Eastern Michigan MAC"
+    ]
+  },
+  "Eastern Washington Eagles": {
+    "variations": [
+      "E Washington",
+      "Eastern Washington",
+      "Eastern Washington BSky",
+      "Eastern Washington Eagles"
+    ]
+  },
+  "Elon Phoenix": {
+    "variations": [
+      "Elon",
+      "Elon CAA",
+      "Elon Phoenix"
+    ]
+  },
+  "Evansville Purple Aces": {
+    "variations": [
+      "Evansville",
+      "Evansville MVC",
+      "Evansville Purple Aces"
+    ]
+  },
+  "Fairfield Stags": {
+    "variations": [
+      "Fairfield",
+      "Fairfield MAAC",
+      "Fairfield Stags"
+    ]
+  },
+  "Fairleigh Dickinson Knights": {
+    "variations": [
+      "F Dickinson",
+      "Fairleigh Dickinson",
+      "Fairleigh Dickinson Knights",
+      "Fairleigh Dickinson NEC"
+    ]
+  },
+  "Florida A&M Rattlers": {
+    "variations": [
+      "Florida A&M",
+      "Florida A&M Rattlers",
+      "Florida A&M SWAC"
+    ]
+  },
+  "Florida Atlantic Owls": {
+    "variations": [
+      "FL Atlantic",
+      "Florida Atlantic",
+      "Florida Atlantic Amer",
+      "Florida Atlantic Owls"
+    ]
+  },
+  "Florida Gators": {
+    "variations": [
+      "Florida",
+      "Florida Gators",
+      "Florida SEC"
+    ]
+  },
+  "Florida Gulf Coast Eagles": {
+    "variations": [
+      "FGCU",
+      "Florida Gulf Coast",
+      "Florida Gulf Coast ASun",
+      "Florida Gulf Coast Eagles"
+    ]
+  },
+  "Florida Int'l Golden Panthers": {
+    "variations": [
+      "FIU",
+      "FIU CUSA",
+      "FIU Golden Panthers",
+      "Florida Int'l Golden Panthers",
+      "Florida International",
+      "Florida Intl"
+    ]
+  },
+  "Florida St Seminoles": {
+    "variations": [
+      "Florida St",
+      "Florida St Seminoles",
+      "Florida St.",
+      "Florida St. ACC",
+      "Florida State",
+      "Florida State Seminoles"
+    ]
+  },
+  "Fordham Rams": {
+    "variations": [
+      "Fordham",
+      "Fordham A",
+      "Fordham Rams"
+    ]
+  },
+  "Fort Wayne Mastodons": {
+    "variations": [
+      "Fort Wayne Mastodons",
+      "IPFW Mastodons",
+      "PFW",
+      "Purdue Fort Wayne",
+      "Purdue Fort Wayne Horz"
+    ]
+  },
+  "Fresno St Bulldogs": {
+    "variations": [
+      "Fresno St",
+      "Fresno St Bulldogs",
+      "Fresno St.",
+      "Fresno St. MWC",
+      "Fresno State",
+      "Fresno State Bulldogs"
+    ]
+  },
+  "Furman Paladins": {
+    "variations": [
+      "Furman",
+      "Furman Paladins",
+      "Furman SC"
+    ]
+  },
+  "Gardner-Webb Bulldogs": {
+    "variations": [
+      "Gardner Webb",
+      "Gardner Webb BSth",
+      "Gardner Webb Runnin' Bulldogs",
+      "Gardner-Webb",
+      "Gardner-Webb Bulldogs"
+    ]
+  },
+  "George Mason Patriots": {
+    "variations": [
+      "George Mason",
+      "George Mason A",
+      "George Mason Patriots"
+    ]
+  },
+  "George Washington Colonials": {
+    "variations": [
+      "G Washington",
+      "George Washington",
+      "George Washington A",
+      "George Washington Colonials"
+    ]
+  },
+  "Georgetown Hoyas": {
+    "variations": [
+      "Georgetown",
+      "Georgetown BE",
+      "Georgetown Hoyas"
+    ]
+  },
+  "Georgia Bulldogs": {
+    "variations": [
+      "Georgia",
+      "Georgia Bulldogs",
+      "Georgia SEC"
+    ]
+  },
+  "Georgia Southern Eagles": {
+    "variations": [
+      "Ga Southern",
+      "Georgia Southern",
+      "Georgia Southern Eagles",
+      "Georgia Southern SB"
+    ]
+  },
+  "Georgia St Panthers": {
+    "variations": [
+      "Georgia St",
+      "Georgia St Panthers",
+      "Georgia St.",
+      "Georgia St. SB",
+      "Georgia State",
+      "Georgia State Panthers"
+    ]
+  },
+  "Georgia Tech Yellow Jackets": {
+    "variations": [
+      "Georgia Tech",
+      "Georgia Tech ACC",
+      "Georgia Tech Yellow Jackets"
+    ]
+  },
+  "Gonzaga Bulldogs": {
+    "variations": [
+      "Gonzaga",
+      "Gonzaga Bulldogs",
+      "Gonzaga WCC"
+    ]
+  },
+  "Grambling St Tigers": {
+    "variations": [
+      "Grambling",
+      "Grambling St Tigers",
+      "Grambling St.",
+      "Grambling St. SWAC",
+      "Grambling State Tigers"
+    ]
+  },
+  "Grand Canyon Antelopes": {
+    "variations": [
+      "Grand Canyon",
+      "Grand Canyon Antelopes",
+      "Grand Canyon WAC"
+    ]
+  },
+  "Green Bay Phoenix": {
+    "variations": [
+      "Green Bay",
+      "Green Bay Horz",
+      "Green Bay Phoenix",
+      "WI Green Bay",
+      "Wisconsin Green Bay Phoenix"
+    ]
+  },
+  "Hampton Pirates": {
+    "variations": [
+      "Hampton",
+      "Hampton CAA",
+      "Hampton Pirates"
+    ]
+  },
+  "Harvard Crimson": {
+    "variations": [
+      "Harvard",
+      "Harvard Crimson",
+      "Harvard Ivy"
+    ]
+  },
+  "Hawai'i Rainbow Warriors": {
+    "variations": [
+      "Hawai'i Rainbow Warriors",
+      "Hawaii",
+      "Hawaii BW",
+      "Hawaii Rainbow Warriors"
+    ]
+  },
+  "High Point Panthers": {
+    "variations": [
+      "High Point",
+      "High Point BSth",
+      "High Point Panthers"
+    ]
+  },
+  "Hofstra Pride": {
+    "variations": [
+      "Hofstra",
+      "Hofstra CAA",
+      "Hofstra Pride"
+    ]
+  },
+  "Holy Cross Crusaders": {
+    "variations": [
+      "Holy Cross",
+      "Holy Cross Crusaders",
+      "Holy Cross PL"
+    ]
+  },
+  "Houston Baptist Huskies": {
+    "variations": [
+      "Houston Baptist Huskies",
+      "Houston Chr",
+      "Houston Christian",
+      "Houston Christian Huskies",
+      "Houston Christian Slnd"
+    ]
+  },
+  "Houston Cougars": {
+    "variations": [
+      "Houston",
+      "Houston B",
+      "Houston Cougars"
+    ]
+  },
+  "Howard Bison": {
+    "variations": [
+      "Howard",
+      "Howard Bison",
+      "Howard MEAC"
+    ]
+  },
+  "IUPUI Jaguars": {
+    "variations": [
+      "IU Indy",
+      "IU Indy Horz",
+      "IUPUI",
+      "IUPUI Jaguars"
+    ]
+  },
+  "Idaho State Bengals": {
+    "variations": [
+      "Idaho",
+      "Idaho St.",
+      "Idaho St. BSky",
+      "Idaho State",
+      "Idaho State Bengals"
+    ]
+  },
+  "Idaho Vandals": {
+    "variations": [
+      "Idaho",
+      "Idaho BSky",
+      "Idaho St",
+      "Idaho Vandals"
+    ]
+  },
+  "Illinois Fighting Illini": {
+    "variations": [
+      "Illinois",
+      "Illinois B",
+      "Illinois Fighting Illini"
+    ]
+  },
+  "Illinois St Redbirds": {
+    "variations": [
+      "Illinois St",
+      "Illinois St Redbirds",
+      "Illinois St.",
+      "Illinois St. MVC",
+      "Illinois State",
+      "Illinois State Redbirds"
+    ]
+  },
+  "Incarnate Word Cardinals": {
+    "variations": [
+      "Incarnate Word",
+      "Incarnate Word Cardinals",
+      "Incarnate Word Slnd"
+    ]
+  },
+  "Indiana Hoosiers": {
+    "variations": [
+      "Indiana",
+      "Indiana B",
+      "Indiana Hoosiers"
+    ]
+  },
+  "Indiana St Sycamores": {
+    "variations": [
+      "Indiana St",
+      "Indiana St Sycamores",
+      "Indiana St.",
+      "Indiana St. MVC",
+      "Indiana State",
+      "Indiana State Sycamores"
+    ]
+  },
+  "Iona Gaels": {
+    "variations": [
+      "Iona",
+      "Iona Gaels",
+      "Iona MAAC"
+    ]
+  },
+  "Iowa Hawkeyes": {
+    "variations": [
+      "Iowa",
+      "Iowa B",
+      "Iowa Hawkeyes"
+    ]
+  },
+  "Iowa State Cyclones": {
+    "variations": [
+      "Iowa St",
+      "Iowa St.",
+      "Iowa St. B",
+      "Iowa State",
+      "Iowa State Cyclones"
+    ]
+  },
+  "Jackson St Tigers": {
+    "variations": [
+      "Jackson St",
+      "Jackson St Tigers",
+      "Jackson St.",
+      "Jackson St. SWAC",
+      "Jackson State",
+      "Jackson State Tigers"
+    ]
+  },
+  "Jacksonville Dolphins": {
+    "variations": [
+      "Jacksonville",
+      "Jacksonville ASun",
+      "Jacksonville Dolphins"
+    ]
+  },
+  "Jacksonville St Gamecocks": {
+    "variations": [
+      "Jacksonville St",
+      "Jacksonville St Gamecocks",
+      "Jacksonville St.",
+      "Jacksonville St. CUSA",
+      "Jacksonville State",
+      "Jacksonville State Gamecocks"
+    ]
+  },
+  "James Madison Dukes": {
+    "variations": [
+      "James Madison",
+      "James Madison Dukes",
+      "James Madison SB"
+    ]
+  },
+  "Kansas Jayhawks": {
+    "variations": [
+      "Kansas",
+      "Kansas B",
+      "Kansas Jayhawks"
+    ]
+  },
+  "Kansas St Wildcats": {
+    "variations": [
+      "Kansas St",
+      "Kansas St Wildcats",
+      "Kansas St.",
+      "Kansas St. B",
+      "Kansas State",
+      "Kansas State Wildcats"
+    ]
+  },
+  "Kennesaw St Owls": {
+    "variations": [
+      "Kennesaw",
+      "Kennesaw St Owls",
+      "Kennesaw St.",
+      "Kennesaw St. CUSA",
+      "Kennesaw State",
+      "Kennesaw State Owls"
+    ]
+  },
+  "Kent State Golden Flashes": {
+    "variations": [
+      "Kent",
+      "Kent St.",
+      "Kent St. MAC",
+      "Kent State",
+      "Kent State Golden Flashes"
+    ]
+  },
+  "Kentucky Wildcats": {
+    "variations": [
+      "Kentucky",
+      "Kentucky SEC",
+      "Kentucky Wildcats"
+    ]
+  },
+  "LIU Sharks": {
+    "variations": [
+      "LIU",
+      "LIU Brooklyn",
+      "LIU NEC",
+      "LIU Sharks",
+      "Long Island"
+    ]
+  },
+  "LSU Tigers": {
+    "variations": [
+      "LSU",
+      "LSU SEC",
+      "LSU Tigers"
+    ]
+  },
+  "La Salle Explorers": {
+    "variations": [
+      "La Salle",
+      "La Salle A",
+      "La Salle Explorers"
+    ]
+  },
+  "Lafayette Leopards": {
+    "variations": [
+      "Lafayette",
+      "Lafayette Leopards",
+      "Lafayette PL"
+    ]
+  },
+  "Lamar Cardinals": {
+    "variations": [
+      "Lamar",
+      "Lamar Cardinals",
+      "Lamar Slnd"
+    ]
+  },
+  "Le Moyne Dolphins": {
+    "variations": [
+      "Le Moyne",
+      "Le Moyne Dolphins",
+      "Le Moyne NEC"
+    ]
+  },
+  "Lehigh Mountain Hawks": {
+    "variations": [
+      "Lehigh",
+      "Lehigh Mountain Hawks",
+      "Lehigh PL"
+    ]
+  },
+  "Liberty Flames": {
+    "variations": [
+      "Liberty",
+      "Liberty CUSA",
+      "Liberty Flames"
+    ]
+  },
+  "Lindenwood Lions": {
+    "variations": [
+      "Lindenwood",
+      "Lindenwood Lions",
+      "Lindenwood OVC"
+    ]
+  },
+  "Lipscomb Bisons": {
+    "variations": [
+      "Lipscomb",
+      "Lipscomb ASun",
+      "Lipscomb Bisons"
+    ]
+  },
+  "Long Beach St 49ers": {
+    "variations": [
+      "Long Beach St",
+      "Long Beach St 49ers",
+      "Long Beach St.",
+      "Long Beach St. BW",
+      "Long Beach State",
+      "Long Beach State 49ers"
+    ]
+  },
+  "Longwood Lancers": {
+    "variations": [
+      "Longwood",
+      "Longwood BSth",
+      "Longwood Lancers"
+    ]
+  },
+  "Louisiana Ragin' Cajuns": {
+    "variations": [
+      "Louisiana",
+      "Louisiana Lafayette",
+      "Louisiana Ragin' Cajuns",
+      "Louisiana SB",
+      "Louisiana-Lafayette"
+    ]
+  },
+  "Louisiana Tech Bulldogs": {
+    "variations": [
+      "Louisiana Tech",
+      "Louisiana Tech Bulldogs",
+      "Louisiana Tech CUSA"
+    ]
+  },
+  "Louisville Cardinals": {
+    "variations": [
+      "Louisville",
+      "Louisville ACC",
+      "Louisville Cardinals"
+    ]
+  },
+  "Loyola (Chi) Ramblers": {
+    "variations": [
+      "Loyola (Chi) Ramblers",
+      "Loyola Chicago",
+      "Loyola Chicago A",
+      "Loyola Chicago Ramblers",
+      "Loyola-Chicago"
+    ]
+  },
+  "Loyola (MD) Greyhounds": {
+    "variations": [
+      "Loyola (MD) Greyhounds",
+      "Loyola MD",
+      "Loyola MD PL",
+      "Loyola Maryland",
+      "Loyola Maryland Greyhounds"
+    ]
+  },
+  "Loyola Marymount Lions": {
+    "variations": [
+      "Loy Marymount",
+      "Loyola Marymount",
+      "Loyola Marymount Lions",
+      "Loyola Marymount WCC"
+    ]
+  },
+  "Maine Black Bears": {
+    "variations": [
+      "Maine",
+      "Maine AE",
+      "Maine Black Bears"
+    ]
+  },
+  "Manhattan Jaspers": {
+    "variations": [
+      "Manhattan",
+      "Manhattan Jaspers",
+      "Manhattan MAAC"
+    ]
+  },
+  "Marist Red Foxes": {
+    "variations": [
+      "Marist",
+      "Marist MAAC",
+      "Marist Red Foxes"
+    ]
+  },
+  "Marquette Golden Eagles": {
+    "variations": [
+      "Marquette",
+      "Marquette BE",
+      "Marquette Golden Eagles"
+    ]
+  },
+  "Marshall Thundering Herd": {
+    "variations": [
+      "Marshall",
+      "Marshall SB",
+      "Marshall Thundering Herd"
+    ]
+  },
+  "Maryland Terrapins": {
+    "variations": [
+      "Maryland",
+      "Maryland B",
+      "Maryland Terrapins"
+    ]
+  },
+  "Maryland-Eastern Shore Hawks": {
+    "variations": [
+      "MD E Shore",
+      "MD E Shore Fighting Hawks",
+      "Maryland Eastern Shore",
+      "Maryland Eastern Shore MEAC",
+      "Maryland-Eastern Shore",
+      "Maryland-Eastern Shore Hawks"
+    ]
+  },
+  "Massachusetts Minutemen": {
+    "variations": [
+      "Massachusetts",
+      "Massachusetts A",
+      "Massachusetts Minutemen",
+      "UMass Minutemen"
+    ]
+  },
+  "McNeese Cowboys": {
+    "variations": [
+      "McNeese",
+      "McNeese Cowboys",
+      "McNeese Slnd",
+      "McNeese St",
+      "McNeese St.",
+      "McNeese State",
+      "McNeese State Cowboys"
+    ]
+  },
+  "Memphis Tigers": {
+    "variations": [
+      "Memphis",
+      "Memphis Amer",
+      "Memphis Tigers"
+    ]
+  },
+  "Mercer Bears": {
+    "variations": [
+      "Mercer",
+      "Mercer Bears",
+      "Mercer SC"
+    ]
+  },
+  "Mercyhurst Lakers ": {
+    "variations": [
+      "Mercyhurst",
+      "Mercyhurst Lakers",
+      "Mercyhurst Lakers ",
+      "Mercyhurst NEC"
+    ]
+  },
+  "Merrimack Warriors": {
+    "variations": [
+      "Merrimack",
+      "Merrimack MAAC",
+      "Merrimack Warriors"
+    ]
+  },
+  "Miami (OH) RedHawks": {
+    "variations": [
+      "Miami (OH) RedHawks",
+      "Miami (Ohio)",
+      "Miami OH",
+      "Miami OH MAC",
+      "Miami RedHawks"
+    ]
+  },
+  "Miami Hurricanes": {
+    "variations": [
+      "Miami (Fla.)",
+      "Miami FL",
+      "Miami FL ACC",
+      "Miami Hurricanes"
+    ]
+  },
+  "Michigan St Spartans": {
+    "variations": [
+      "Michigan St",
+      "Michigan St Spartans",
+      "Michigan St.",
+      "Michigan St. B",
+      "Michigan State",
+      "Michigan State Spartans"
+    ]
+  },
+  "Michigan Wolverines": {
+    "variations": [
+      "Michigan",
+      "Michigan B",
+      "Michigan Wolverines"
+    ]
+  },
+  "Middle Tennessee Blue Raiders": {
+    "variations": [
+      "MTSU",
+      "MTSU Blue Raiders",
+      "Middle Tennessee",
+      "Middle Tennessee Blue Raiders",
+      "Middle Tennessee CUSA"
+    ]
+  },
+  "Milwaukee Panthers": {
+    "variations": [
+      "Milwaukee",
+      "Milwaukee Horz",
+      "Milwaukee Panthers",
+      "WI Milwaukee",
+      "Wisconsin Milwaukee Panthers"
+    ]
+  },
+  "Minnesota Golden Gophers": {
+    "variations": [
+      "Minnesota",
+      "Minnesota B",
+      "Minnesota Golden Gophers"
+    ]
+  },
+  "Miss Valley St Delta Devils": {
+    "variations": [
+      "MS Valley St",
+      "MS Valley State Delta Devils",
+      "Miss Valley St Delta Devils",
+      "Mississippi Valley St.",
+      "Mississippi Valley St. SWAC",
+      "Mississippi Valley State"
+    ]
+  },
+  "Mississippi St Bulldogs": {
+    "variations": [
+      "Mississippi St",
+      "Mississippi St Bulldogs",
+      "Mississippi St.",
+      "Mississippi St. SEC",
+      "Mississippi State",
+      "Mississippi State Bulldogs"
+    ]
+  },
+  "Missouri St Bears": {
+    "variations": [
+      "Missouri St",
+      "Missouri St Bears",
+      "Missouri St.",
+      "Missouri St. MVC",
+      "Missouri State",
+      "Missouri State Bears"
+    ]
+  },
+  "Missouri Tigers": {
+    "variations": [
+      "Missouri",
+      "Missouri SEC",
+      "Missouri Tigers"
+    ]
+  },
+  "Monmouth Hawks": {
+    "variations": [
+      "Monmouth",
+      "Monmouth CAA",
+      "Monmouth Hawks",
+      "Monmouth NJ"
+    ]
+  },
+  "Montana Grizzlies": {
+    "variations": [
+      "Montana",
+      "Montana BSky",
+      "Montana Grizzlies"
+    ]
+  },
+  "Montana St Bobcats": {
+    "variations": [
+      "Montana St",
+      "Montana St Bobcats",
+      "Montana St.",
+      "Montana St. BSky",
+      "Montana State",
+      "Montana State Bobcats"
+    ]
+  },
+  "Morehead St Eagles": {
+    "variations": [
+      "Morehead St",
+      "Morehead St Eagles",
+      "Morehead St.",
+      "Morehead St. OVC",
+      "Morehead State",
+      "Morehead State Eagles"
+    ]
+  },
+  "Morgan St Bears": {
+    "variations": [
+      "Morgan St",
+      "Morgan St Bears",
+      "Morgan St.",
+      "Morgan St. MEAC",
+      "Morgan State",
+      "Morgan State Bears"
+    ]
+  },
+  "Mt. St. Mary's Mountaineers": {
+    "variations": [
+      "Mount St Mary's Mountaineers",
+      "Mount St. Mary's",
+      "Mount St. Mary's MAAC",
+      "Mt St Mary's",
+      "Mt. St. Mary's Mountaineers"
+    ]
+  },
+  "Murray St Racers": {
+    "variations": [
+      "Murray St",
+      "Murray St Racers",
+      "Murray St.",
+      "Murray St. MVC",
+      "Murray State",
+      "Murray State Racers"
+    ]
+  },
+  "N Colorado Bears": {
+    "variations": [
+      "N Colorado",
+      "N Colorado Bears",
+      "Northern Colorado",
+      "Northern Colorado BSky",
+      "Northern Colorado Bears"
+    ]
+  },
+  "NC State Wolfpack": {
+    "variations": [
+      "N.C. State",
+      "N.C. State ACC",
+      "NC State",
+      "NC State Wolfpack"
+    ]
+  },
+  "NJIT Highlanders": {
+    "variations": [
+      "NJIT",
+      "NJIT AE",
+      "NJIT Highlanders"
+    ]
+  },
+  "Navy Midshipmen": {
+    "variations": [
+      "Navy",
+      "Navy Midshipmen",
+      "Navy PL"
+    ]
+  },
+  "Nebraska Cornhuskers": {
+    "variations": [
+      "Nebraska",
+      "Nebraska B",
+      "Nebraska Cornhuskers"
+    ]
+  },
+  "Nevada Wolf Pack": {
+    "variations": [
+      "Nevada",
+      "Nevada MWC",
+      "Nevada Wolf Pack"
+    ]
+  },
+  "New Hampshire Wildcats": {
+    "variations": [
+      "New Hampshire",
+      "New Hampshire AE",
+      "New Hampshire Wildcats"
+    ]
+  },
+  "New Mexico Lobos": {
+    "variations": [
+      "New Mexico",
+      "New Mexico Lobos",
+      "New Mexico MWC"
+    ]
+  },
+  "New Mexico St Aggies": {
+    "variations": [
+      "New Mexico St",
+      "New Mexico St Aggies",
+      "New Mexico St.",
+      "New Mexico St. CUSA",
+      "New Mexico State",
+      "New Mexico State Aggies"
+    ]
+  },
+  "New Orleans Privateers": {
+    "variations": [
+      "New Orleans",
+      "New Orleans Privateers",
+      "New Orleans Slnd"
+    ]
+  },
+  "Niagara Purple Eagles": {
+    "variations": [
+      "Niagara",
+      "Niagara MAAC",
+      "Niagara Purple Eagles"
+    ]
+  },
+  "Nicholls St Colonels": {
+    "variations": [
+      "Nicholls",
+      "Nicholls Slnd",
+      "Nicholls St",
+      "Nicholls St Colonels",
+      "Nicholls St.",
+      "Nicholls State",
+      "Nicholls State Colonels"
+    ]
+  },
+  "Norfolk St Spartans": {
+    "variations": [
+      "Norfolk St",
+      "Norfolk St Spartans",
+      "Norfolk St.",
+      "Norfolk St. MEAC",
+      "Norfolk State",
+      "Norfolk State Spartans"
+    ]
+  },
+  "North Alabama Lions": {
+    "variations": [
+      "North Alabama",
+      "North Alabama ASun",
+      "North Alabama Lions"
+    ]
+  },
+  "North Carolina A&T Aggies": {
+    "variations": [
+      "NC A&T",
+      "North Carolina A&T",
+      "North Carolina A&T Aggies",
+      "North Carolina A&T CAA"
+    ]
+  },
+  "North Carolina Central Eagles": {
+    "variations": [
+      "NC Central",
+      "North Carolina Central",
+      "North Carolina Central Eagles",
+      "North Carolina Central MEAC"
+    ]
+  },
+  "North Carolina Tar Heels": {
+    "variations": [
+      "North Carolina",
+      "North Carolina ACC",
+      "North Carolina Tar Heels",
+      "UNC Tar Heels"
+    ]
+  },
+  "North Dakota Fighting Hawks": {
+    "variations": [
+      "North Dakota",
+      "North Dakota Fighting Hawks",
+      "North Dakota Sum"
+    ]
+  },
+  "North Dakota St Bison": {
+    "variations": [
+      "N Dakota St",
+      "North Dakota St Bison",
+      "North Dakota St.",
+      "North Dakota St. Sum",
+      "North Dakota State",
+      "North Dakota State Bison"
+    ]
+  },
+  "North Florida Ospreys": {
+    "variations": [
+      "North Florida",
+      "North Florida ASun",
+      "North Florida Ospreys"
+    ]
+  },
+  "North Texas Mean Green": {
+    "variations": [
+      "North Texas",
+      "North Texas Amer",
+      "North Texas Mean Green"
+    ]
+  },
+  "Northeastern Huskies": {
+    "variations": [
+      "Northeastern",
+      "Northeastern CAA",
+      "Northeastern Huskies"
+    ]
+  },
+  "Northern Arizona Lumberjacks": {
+    "variations": [
+      "Northern Arizona",
+      "Northern Arizona BSky",
+      "Northern Arizona Lumberjacks"
+    ]
+  },
+  "Northern Illinois Huskies": {
+    "variations": [
+      "N Illinois",
+      "Northern Illinois",
+      "Northern Illinois Huskies",
+      "Northern Illinois MAC"
+    ]
+  },
+  "Northern Iowa Panthers": {
+    "variations": [
+      "Northern Iowa",
+      "Northern Iowa MVC",
+      "Northern Iowa Panthers"
+    ]
+  },
+  "Northern Kentucky Norse": {
+    "variations": [
+      "N Kentucky",
+      "Northern Kentucky",
+      "Northern Kentucky Horz",
+      "Northern Kentucky Norse"
+    ]
+  },
+  "Northwestern St Demons": {
+    "variations": [
+      "Northwestern LA",
+      "Northwestern St Demons",
+      "Northwestern St.",
+      "Northwestern St. Slnd",
+      "Northwestern State",
+      "Northwestern State Demons"
+    ]
+  },
+  "Northwestern Wildcats": {
+    "variations": [
+      "Northwestern",
+      "Northwestern B",
+      "Northwestern Wildcats"
+    ]
+  },
+  "Notre Dame Fighting Irish": {
+    "variations": [
+      "Notre Dame",
+      "Notre Dame ACC",
+      "Notre Dame Fighting Irish"
+    ]
+  },
+  "Oakland Golden Grizzlies": {
+    "variations": [
+      "Oakland",
+      "Oakland Golden Grizzlies",
+      "Oakland Horz"
+    ]
+  },
+  "Ohio Bobcats": {
+    "variations": [
+      "Ohio",
+      "Ohio Bobcats",
+      "Ohio MAC"
+    ]
+  },
+  "Ohio State Buckeyes": {
+    "variations": [
+      "Ohio St",
+      "Ohio St.",
+      "Ohio St. B",
+      "Ohio State",
+      "Ohio State Buckeyes"
+    ]
+  },
+  "Oklahoma Sooners": {
+    "variations": [
+      "Oklahoma",
+      "Oklahoma SEC",
+      "Oklahoma Sooners"
+    ]
+  },
+  "Oklahoma St Cowboys": {
+    "variations": [
+      "Oklahoma St",
+      "Oklahoma St Cowboys",
+      "Oklahoma St.",
+      "Oklahoma St. B",
+      "Oklahoma State",
+      "Oklahoma State Cowboys"
+    ]
+  },
+  "Old Dominion Monarchs": {
+    "variations": [
+      "Old Dominion",
+      "Old Dominion Monarchs",
+      "Old Dominion SB"
+    ]
+  },
+  "Ole Miss Rebels": {
+    "variations": [
+      "Mississippi",
+      "Mississippi SEC",
+      "Ole Miss",
+      "Ole Miss Rebels"
+    ]
+  },
+  "Omaha Mavericks": {
+    "variations": [
+      "NE Omaha",
+      "Nebraska Omaha",
+      "Nebraska Omaha Sum",
+      "Omaha",
+      "Omaha Mavericks"
+    ]
+  },
+  "Oral Roberts Golden Eagles": {
+    "variations": [
+      "Oral Roberts",
+      "Oral Roberts Golden Eagles",
+      "Oral Roberts Sum"
+    ]
+  },
+  "Oregon Ducks": {
+    "variations": [
+      "Oregon",
+      "Oregon B",
+      "Oregon Ducks"
+    ]
+  },
+  "Oregon St Beavers": {
+    "variations": [
+      "Oregon St",
+      "Oregon St Beavers",
+      "Oregon St.",
+      "Oregon St. WCC",
+      "Oregon State",
+      "Oregon State Beavers"
+    ]
+  },
+  "Pacific Tigers": {
+    "variations": [
+      "Pacific",
+      "Pacific Tigers",
+      "Pacific WCC"
+    ]
+  },
+  "Penn State Nittany Lions": {
+    "variations": [
+      "Penn St",
+      "Penn St.",
+      "Penn St. B",
+      "Penn State",
+      "Penn State Nittany Lions"
+    ]
+  },
+  "Pennsylvania Quakers": {
+    "variations": [
+      "Penn",
+      "Penn Ivy",
+      "Penn Quakers",
+      "Pennsylvania Quakers"
+    ]
+  },
+  "Pepperdine Waves": {
+    "variations": [
+      "Pepperdine",
+      "Pepperdine WCC",
+      "Pepperdine Waves"
+    ]
+  },
+  "Pittsburgh Panthers": {
+    "variations": [
+      "Pitt Panthers",
+      "Pittsburgh",
+      "Pittsburgh ACC",
+      "Pittsburgh Panthers"
+    ]
+  },
+  "Portland Pilots": {
+    "variations": [
+      "Portland",
+      "Portland Pilots",
+      "Portland WCC"
+    ]
+  },
+  "Portland St Vikings": {
+    "variations": [
+      "Portland St",
+      "Portland St Vikings",
+      "Portland St.",
+      "Portland St. BSky",
+      "Portland State",
+      "Portland State Vikings"
+    ]
+  },
+  "Prairie View Panthers": {
+    "variations": [
+      "Prairie View",
+      "Prairie View A&M",
+      "Prairie View A&M Panthers",
+      "Prairie View A&M SWAC",
+      "Prairie View Panthers"
+    ]
+  },
+  "Presbyterian Blue Hose": {
+    "variations": [
+      "Presbyterian",
+      "Presbyterian BSth",
+      "Presbyterian Blue Hose"
+    ]
+  },
+  "Princeton Tigers": {
+    "variations": [
+      "Princeton",
+      "Princeton Ivy",
+      "Princeton Tigers"
+    ]
+  },
+  "Providence Friars": {
+    "variations": [
+      "Providence",
+      "Providence BE",
+      "Providence Friars"
+    ]
+  },
+  "Purdue Boilermakers": {
+    "variations": [
+      "Purdue",
+      "Purdue B",
+      "Purdue Boilermakers"
+    ]
+  },
+  "Queens": {
+    "variations": [
+      "Queens",
+      "Queens ASun",
+      "Queens NC",
+      "Queens Royals"
+    ]
+  },
+  "Quinnipiac Bobcats": {
+    "variations": [
+      "Quinnipiac",
+      "Quinnipiac Bobcats",
+      "Quinnipiac MAAC"
+    ]
+  },
+  "Radford Highlanders": {
+    "variations": [
+      "Radford",
+      "Radford BSth",
+      "Radford Highlanders"
+    ]
+  },
+  "Rhode Island Rams": {
+    "variations": [
+      "Rhode Island",
+      "Rhode Island A",
+      "Rhode Island Rams"
+    ]
+  },
+  "Rice Owls": {
+    "variations": [
+      "Rice",
+      "Rice Amer",
+      "Rice Owls"
+    ]
+  },
+  "Richmond Spiders": {
+    "variations": [
+      "Richmond",
+      "Richmond A",
+      "Richmond Spiders"
+    ]
+  },
+  "Rider Broncs": {
+    "variations": [
+      "Rider",
+      "Rider Broncs",
+      "Rider MAAC"
+    ]
+  },
+  "Robert Morris Colonials": {
+    "variations": [
+      "Robert Morris",
+      "Robert Morris Colonials",
+      "Robert Morris Horz"
+    ]
+  },
+  "Rutgers Scarlet Knights": {
+    "variations": [
+      "Rutgers",
+      "Rutgers B",
+      "Rutgers Scarlet Knights"
+    ]
+  },
+  "SE Louisiana Lions": {
+    "variations": [
+      "SE Louisiana",
+      "SE Louisiana Lions",
+      "Southeastern Louisiana",
+      "Southeastern Louisiana Lions",
+      "Southeastern Louisiana Slnd"
+    ]
+  },
+  "SE Missouri St Redhawks": {
+    "variations": [
+      "SE Missouri St",
+      "SE Missouri St Redhawks",
+      "SE Missouri State Redhawks",
+      "Southeast Missouri",
+      "Southeast Missouri OVC",
+      "Southeast Missouri St.",
+      "Southeast Missouri State"
+    ]
+  },
+  "SIU-Edwardsville Cougars": {
+    "variations": [
+      "SIU Edwardsville",
+      "SIU Edwardsville Cougars",
+      "SIU-Edwardsville Cougars",
+      "SIUE",
+      "SIUE OVC"
+    ]
+  },
+  "SMU Mustangs": {
+    "variations": [
+      "SMU",
+      "SMU ACC",
+      "SMU Mustangs"
+    ]
+  },
+  "Sacramento St Hornets": {
+    "variations": [
+      "CS Sacramento",
+      "Sacramento St Hornets",
+      "Sacramento St.",
+      "Sacramento St. BSky",
+      "Sacramento State",
+      "Sacramento State Hornets"
+    ]
+  },
+  "Sacred Heart Pioneers": {
+    "variations": [
+      "Sacred Heart",
+      "Sacred Heart MAAC",
+      "Sacred Heart Pioneers"
+    ]
+  },
+  "Saint Joseph's Hawks": {
+    "variations": [
+      "Saint Joseph's",
+      "Saint Joseph's A",
+      "Saint Joseph's Hawks",
+      "St Joseph's PA"
+    ]
+  },
+  "Saint Louis Billikens": {
+    "variations": [
+      "Saint Louis",
+      "Saint Louis A",
+      "Saint Louis Billikens",
+      "St Louis"
+    ]
+  },
+  "Saint Mary's Gaels": {
+    "variations": [
+      "Saint Mary's",
+      "Saint Mary's College Gaels",
+      "Saint Mary's Gaels",
+      "Saint Mary's WCC",
+      "St Mary's CA"
+    ]
+  },
+  "Saint Peter's Peacocks": {
+    "variations": [
+      "Saint Peter's",
+      "Saint Peter's MAAC",
+      "Saint Peter's Peacocks",
+      "St Peter's"
+    ]
+  },
+  "Sam Houston St Bearkats": {
+    "variations": [
+      "Sam Houston St",
+      "Sam Houston St Bearkats",
+      "Sam Houston St.",
+      "Sam Houston St. CUSA",
+      "Sam Houston State",
+      "Sam Houston State Bearkats"
+    ]
+  },
+  "Samford Bulldogs": {
+    "variations": [
+      "Samford",
+      "Samford Bulldogs",
+      "Samford SC"
+    ]
+  },
+  "San Diego St Aztecs": {
+    "variations": [
+      "San Diego St",
+      "San Diego St Aztecs",
+      "San Diego St.",
+      "San Diego St. MWC",
+      "San Diego State",
+      "San Diego State Aztecs"
+    ]
+  },
+  "San Diego Toreros": {
+    "variations": [
+      "San Diego",
+      "San Diego Toreros",
+      "San Diego WCC"
+    ]
+  },
+  "San Francisco Dons": {
+    "variations": [
+      "San Francisco",
+      "San Francisco Dons",
+      "San Francisco WCC"
+    ]
+  },
+  "San Jos\u221a\u00a9 St Spartans": {
+    "variations": [
+      "San Jose St",
+      "San Jose St.",
+      "San Jose St. MWC",
+      "San Jose State",
+      "San Jose State Spartans",
+      "San Jos\u221a\u00a9 St Spartans"
+    ]
+  },
+  "Santa Clara Broncos": {
+    "variations": [
+      "Santa Clara",
+      "Santa Clara Broncos",
+      "Santa Clara WCC"
+    ]
+  },
+  "Seattle Redhawks": {
+    "variations": [
+      "Seattle",
+      "Seattle Redhawks",
+      "Seattle WAC"
+    ]
+  },
+  "Seton Hall Pirates": {
+    "variations": [
+      "Seton Hall",
+      "Seton Hall BE",
+      "Seton Hall Pirates"
+    ]
+  },
+  "Siena Saints": {
+    "variations": [
+      "Siena",
+      "Siena MAAC",
+      "Siena Saints"
+    ]
+  },
+  "South Alabama Jaguars": {
+    "variations": [
+      "South Alabama",
+      "South Alabama Jaguars",
+      "South Alabama SB"
+    ]
+  },
+  "South Carolina Gamecocks": {
+    "variations": [
+      "South Carolina",
+      "South Carolina Gamecocks",
+      "South Carolina SEC"
+    ]
+  },
+  "South Carolina St Bulldogs": {
+    "variations": [
+      "S Carolina St",
+      "South Carolina St Bulldogs",
+      "South Carolina St.",
+      "South Carolina St. MEAC",
+      "South Carolina State",
+      "South Carolina State Bulldogs"
+    ]
+  },
+  "South Carolina Upstate Spartans": {
+    "variations": [
+      "SC Upstate",
+      "South Carolina Upstate",
+      "South Carolina Upstate Spartans",
+      "USC Upstate",
+      "USC Upstate BSth",
+      "USC Upstate Spartans"
+    ]
+  },
+  "South Dakota Coyotes": {
+    "variations": [
+      "South Dakota",
+      "South Dakota Coyotes",
+      "South Dakota Sum"
+    ]
+  },
+  "South Dakota St Jackrabbits": {
+    "variations": [
+      "S Dakota St",
+      "South Dakota St Jackrabbits",
+      "South Dakota St.",
+      "South Dakota St. Sum",
+      "South Dakota State",
+      "South Dakota State Jackrabbits"
+    ]
+  },
+  "South Florida Bulls": {
+    "variations": [
+      "South Florida",
+      "South Florida Amer",
+      "South Florida Bulls"
+    ]
+  },
+  "Southern Illinois Salukis": {
+    "variations": [
+      "S Illinois",
+      "Southern Illinois",
+      "Southern Illinois MVC",
+      "Southern Illinois Salukis"
+    ]
+  },
+  "Southern Indiana Screaming Eagles": {
+    "variations": [
+      "Southern Indiana",
+      "Southern Indiana OVC",
+      "Southern Indiana Screaming Eagles"
+    ]
+  },
+  "Southern Jaguars": {
+    "variations": [
+      "Southern",
+      "Southern Jaguars",
+      "Southern SWAC",
+      "Southern Univ",
+      "Southern University Jaguars"
+    ]
+  },
+  "Southern Miss Golden Eagles": {
+    "variations": [
+      "Southern Miss",
+      "Southern Miss Golden Eagles",
+      "Southern Miss SB",
+      "Southern Mississippi"
+    ]
+  },
+  "Southern Utah Thunderbirds": {
+    "variations": [
+      "Southern Utah",
+      "Southern Utah Thunderbirds",
+      "Southern Utah WAC"
+    ]
+  },
+  "St. Bonaventure Bonnies": {
+    "variations": [
+      "Saint Bonaventure",
+      "St Bonaventure",
+      "St Bonaventure Bonnies",
+      "St. Bonaventure",
+      "St. Bonaventure A",
+      "St. Bonaventure Bonnies"
+    ]
+  },
+  "St. Francis (PA) Red Flash": {
+    "variations": [
+      "Saint Francis",
+      "Saint Francis (PA)",
+      "Saint Francis NEC",
+      "St Francis PA",
+      "St Francis Red Flash",
+      "St. Francis (PA) Red Flash"
+    ]
+  },
+  "St. John's Red Storm": {
+    "variations": [
+      "Saint John's",
+      "St  John's Red Storm",
+      "St John's",
+      "St. John's",
+      "St. John's BE",
+      "St. John's Red Storm"
+    ]
+  },
+  "St. Thomas (MN) Tommies": {
+    "variations": [
+      "Saint Thomas (Minn.)",
+      "St Thomas MN",
+      "St Thomas Tommies",
+      "St. Thomas",
+      "St. Thomas (MN) Tommies",
+      "St. Thomas Sum"
+    ]
+  },
+  "Stanford Cardinal": {
+    "variations": [
+      "Stanford",
+      "Stanford ACC",
+      "Stanford Cardinal"
+    ]
+  },
+  "Stephen F. Austin Lumberjacks": {
+    "variations": [
+      "SF Austin",
+      "Stephen F Austin Lumberjacks",
+      "Stephen F. Austin",
+      "Stephen F. Austin Lumberjacks",
+      "Stephen F. Austin Slnd"
+    ]
+  },
+  "Stetson Hatters": {
+    "variations": [
+      "Stetson",
+      "Stetson ASun",
+      "Stetson Hatters"
+    ]
+  },
+  "Stonehill Skyhawks": {
+    "variations": [
+      "Stonehill",
+      "Stonehill NEC",
+      "Stonehill Skyhawks"
+    ]
+  },
+  "Stony Brook Seawolves": {
+    "variations": [
+      "Stony Brook",
+      "Stony Brook CAA",
+      "Stony Brook Seawolves"
+    ]
+  },
+  "Syracuse Orange": {
+    "variations": [
+      "Syracuse",
+      "Syracuse ACC",
+      "Syracuse Orange"
+    ]
+  },
+  "TCU Horned Frogs": {
+    "variations": [
+      "TCU",
+      "TCU B",
+      "TCU Horned Frogs"
+    ]
+  },
+  "Tarleton State Texans": {
+    "variations": [
+      "Tarleton St",
+      "Tarleton St.",
+      "Tarleton St. WAC",
+      "Tarleton State",
+      "Tarleton State Texans"
+    ]
+  },
+  "Temple Owls": {
+    "variations": [
+      "Temple",
+      "Temple Amer",
+      "Temple Owls"
+    ]
+  },
+  "Tenn-Martin Skyhawks": {
+    "variations": [
+      "TN Martin",
+      "Tenn-Martin Skyhawks",
+      "Tennessee Martin",
+      "Tennessee Martin OVC",
+      "Tennessee-Martin",
+      "Tennessee-Martin Skyhawks"
+    ]
+  },
+  "Tennessee St Tigers": {
+    "variations": [
+      "Tennessee St",
+      "Tennessee St Tigers",
+      "Tennessee St.",
+      "Tennessee St. OVC",
+      "Tennessee State",
+      "Tennessee State Tigers"
+    ]
+  },
+  "Tennessee Tech Golden Eagles": {
+    "variations": [
+      "Tennessee Tech",
+      "Tennessee Tech Golden Eagles",
+      "Tennessee Tech OVC"
+    ]
+  },
+  "Tennessee Volunteers": {
+    "variations": [
+      "Tennessee",
+      "Tennessee SEC",
+      "Tennessee Volunteers"
+    ]
+  },
+  "Texas A&M Aggies": {
+    "variations": [
+      "Texas A&M",
+      "Texas A&M Aggies",
+      "Texas A&M SEC"
+    ]
+  },
+  "Texas A&M-CC Islanders": {
+    "variations": [
+      "TAM C. Christi",
+      "Texas A&M CC Islanders",
+      "Texas A&M Corpus Chris",
+      "Texas A&M Corpus Chris Slnd",
+      "Texas A&M-CC Islanders",
+      "Texas A&M-Corpus Christi"
+    ]
+  },
+  "Texas A&M-Commerce Lions": {
+    "variations": [
+      "East Texas A&M",
+      "East Texas A&M Slnd",
+      "Texas A&M Commerce",
+      "Texas A&M Commerce Lions",
+      "Texas A&M-Commerce",
+      "Texas A&M-Commerce Lions"
+    ]
+  },
+  "Texas Longhorns": {
+    "variations": [
+      "Texas",
+      "Texas Longhorns",
+      "Texas SEC"
+    ]
+  },
+  "Texas Southern Tigers": {
+    "variations": [
+      "TX Southern",
+      "Texas Southern",
+      "Texas Southern SWAC",
+      "Texas Southern Tigers"
+    ]
+  },
+  "Texas State Bobcats": {
+    "variations": [
+      "Texas St",
+      "Texas St.",
+      "Texas St. SB",
+      "Texas State",
+      "Texas State Bobcats"
+    ]
+  },
+  "Texas Tech Red Raiders": {
+    "variations": [
+      "Texas Tech",
+      "Texas Tech B",
+      "Texas Tech Red Raiders"
+    ]
+  },
+  "The Citadel Bulldogs": {
+    "variations": [
+      "Citadel",
+      "The Citadel",
+      "The Citadel Bulldogs",
+      "The Citadel SC"
+    ]
+  },
+  "Toledo Rockets": {
+    "variations": [
+      "Toledo",
+      "Toledo MAC",
+      "Toledo Rockets"
+    ]
+  },
+  "Towson Tigers": {
+    "variations": [
+      "Towson",
+      "Towson CAA",
+      "Towson Tigers"
+    ]
+  },
+  "Troy Trojans": {
+    "variations": [
+      "Troy",
+      "Troy SB",
+      "Troy Trojans"
+    ]
+  },
+  "Tulane Green Wave": {
+    "variations": [
+      "Tulane",
+      "Tulane Amer",
+      "Tulane Green Wave"
+    ]
+  },
+  "Tulsa Golden Hurricane": {
+    "variations": [
+      "Tulsa",
+      "Tulsa Amer",
+      "Tulsa Golden Hurricane"
+    ]
+  },
+  "UAB Blazers": {
+    "variations": [
+      "UAB",
+      "UAB Amer",
+      "UAB Blazers"
+    ]
+  },
+  "UC Davis Aggies": {
+    "variations": [
+      "UC Davis",
+      "UC Davis Aggies",
+      "UC Davis BW"
+    ]
+  },
+  "UC Irvine Anteaters": {
+    "variations": [
+      "UC Irvine",
+      "UC Irvine Anteaters",
+      "UC Irvine BW"
+    ]
+  },
+  "UC Riverside Highlanders": {
+    "variations": [
+      "UC Riverside",
+      "UC Riverside BW",
+      "UC Riverside Highlanders"
+    ]
+  },
+  "UC San Diego Tritons": {
+    "variations": [
+      "UC San Diego",
+      "UC San Diego BW",
+      "UC San Diego Tritons"
+    ]
+  },
+  "UC Santa Barbara Gauchos": {
+    "variations": [
+      "UC Santa Barbara",
+      "UC Santa Barbara BW",
+      "UC Santa Barbara Gauchos"
+    ]
+  },
+  "UCF Knights": {
+    "variations": [
+      "UCF",
+      "UCF B",
+      "UCF Knights"
+    ]
+  },
+  "UCLA Bruins": {
+    "variations": [
+      "UCLA",
+      "UCLA B",
+      "UCLA Bruins"
+    ]
+  },
+  "UConn Huskies": {
+    "variations": [
+      "Connecticut",
+      "Connecticut BE",
+      "Connecticut Huskies",
+      "UConn Huskies"
+    ]
+  },
+  "UIC Flames": {
+    "variations": [
+      "IL Chicago",
+      "Illinois Chicago",
+      "Illinois Chicago MVC",
+      "Illinois-Chicago",
+      "UIC Flames"
+    ]
+  },
+  "UL Monroe Warhawks": {
+    "variations": [
+      "Louisiana Monroe",
+      "Louisiana Monroe SB",
+      "Louisiana Monroe Warhawks",
+      "Louisiana-Monroe",
+      "UL Monroe Warhawks",
+      "ULM"
+    ]
+  },
+  "UMBC Retrievers": {
+    "variations": [
+      "UMBC",
+      "UMBC AE",
+      "UMBC Retrievers"
+    ]
+  },
+  "UMKC Kangaroos": {
+    "variations": [
+      "Kansas City",
+      "Kansas City Sum",
+      "Missouri KC",
+      "Missouri-Kansas City",
+      "UMKC",
+      "UMKC Kangaroos",
+      "UMKC Kangarros"
+    ]
+  },
+  "UMass Lowell River Hawks": {
+    "variations": [
+      "MA Lowell",
+      "UMass Lowell",
+      "UMass Lowell AE",
+      "UMass Lowell River Hawks"
+    ]
+  },
+  "UNC Asheville Bulldogs": {
+    "variations": [
+      "UNC Asheville",
+      "UNC Asheville BSth",
+      "UNC Asheville Bulldogs"
+    ]
+  },
+  "UNC Greensboro Spartans": {
+    "variations": [
+      "UNC Greensboro",
+      "UNC Greensboro SC",
+      "UNC Greensboro Spartans"
+    ]
+  },
+  "UNC Wilmington Seahawks": {
+    "variations": [
+      "UNC Wilmington",
+      "UNC Wilmington CAA",
+      "UNC Wilmington Seahawks"
+    ]
+  },
+  "UNLV Rebels": {
+    "variations": [
+      "UNLV",
+      "UNLV MWC",
+      "UNLV Rebels"
+    ]
+  },
+  "USC Trojans": {
+    "variations": [
+      "USC",
+      "USC B",
+      "USC Trojans"
+    ]
+  },
+  "UT Rio Grande Valley Vaqueros": {
+    "variations": [
+      "Texas-Rio Grande Valley",
+      "UT Rio Grande Valley",
+      "UT Rio Grande Valley Slnd",
+      "UT Rio Grande Valley Vaqueros",
+      "UTRGV",
+      "UTRGV Vaqueros"
+    ]
+  },
+  "UT-Arlington Mavericks": {
+    "variations": [
+      "UT Arlington",
+      "UT Arlington Mavericks",
+      "UT Arlington WAC",
+      "UT-Arlington Mavericks"
+    ]
+  },
+  "UTEP Miners": {
+    "variations": [
+      "UTEP",
+      "UTEP CUSA",
+      "UTEP Miners"
+    ]
+  },
+  "UTSA Roadrunners": {
+    "variations": [
+      "UT San Antonio",
+      "UTSA",
+      "UTSA Amer",
+      "UTSA Roadrunners"
+    ]
+  },
+  "Utah State Aggies": {
+    "variations": [
+      "Utah St",
+      "Utah St.",
+      "Utah St. MWC",
+      "Utah State",
+      "Utah State Aggies"
+    ]
+  },
+  "Utah Tech Trailblazers": {
+    "variations": [
+      "Utah Tech",
+      "Utah Tech Trailblazers",
+      "Utah Tech WAC"
+    ]
+  },
+  "Utah Utes": {
+    "variations": [
+      "Utah",
+      "Utah B",
+      "Utah Utes"
+    ]
+  },
+  "Utah Valley Wolverines": {
+    "variations": [
+      "Utah Valley",
+      "Utah Valley WAC",
+      "Utah Valley Wolverines"
+    ]
+  },
+  "VCU Rams": {
+    "variations": [
+      "VCU",
+      "VCU A",
+      "VCU Rams"
+    ]
+  },
+  "VMI Keydets": {
+    "variations": [
+      "VMI",
+      "VMI Keydets",
+      "VMI SC"
+    ]
+  },
+  "Valparaiso Beacons": {
+    "variations": [
+      "Valparaiso",
+      "Valparaiso Beacons",
+      "Valparaiso MVC"
+    ]
+  },
+  "Vanderbilt Commodores": {
+    "variations": [
+      "Vanderbilt",
+      "Vanderbilt Commodores",
+      "Vanderbilt SEC"
+    ]
+  },
+  "Vermont Catamounts": {
+    "variations": [
+      "Vermont",
+      "Vermont AE",
+      "Vermont Catamounts"
+    ]
+  },
+  "Villanova Wildcats": {
+    "variations": [
+      "Villanova",
+      "Villanova BE",
+      "Villanova Wildcats"
+    ]
+  },
+  "Virginia Cavaliers": {
+    "variations": [
+      "Virginia",
+      "Virginia ACC",
+      "Virginia Cavaliers"
+    ]
+  },
+  "Virginia Tech Hokies": {
+    "variations": [
+      "Virginia Tech",
+      "Virginia Tech ACC",
+      "Virginia Tech Hokies"
+    ]
+  },
+  "Wagner Seahawks": {
+    "variations": [
+      "Wagner",
+      "Wagner NEC",
+      "Wagner Seahawks"
+    ]
+  },
+  "Wake Forest Demon Deacons": {
+    "variations": [
+      "Wake Forest",
+      "Wake Forest ACC",
+      "Wake Forest Demon Deacons"
+    ]
+  },
+  "Washington Huskies": {
+    "variations": [
+      "Washington",
+      "Washington B",
+      "Washington Huskies"
+    ]
+  },
+  "Washington St Cougars": {
+    "variations": [
+      "Washington St",
+      "Washington St Cougars",
+      "Washington St.",
+      "Washington St. WCC",
+      "Washington State",
+      "Washington State Cougars"
+    ]
+  },
+  "Weber State Wildcats": {
+    "variations": [
+      "Weber St",
+      "Weber St.",
+      "Weber St. BSky",
+      "Weber State",
+      "Weber State Wildcats"
+    ]
+  },
+  "West Georgia Wolves": {
+    "variations": [
+      "West Georgia",
+      "West Georgia ASun",
+      "West Georgia Wolves"
+    ]
+  },
+  "West Virginia Mountaineers": {
+    "variations": [
+      "West Virginia",
+      "West Virginia B",
+      "West Virginia Mountaineers"
+    ]
+  },
+  "Western Carolina Catamounts": {
+    "variations": [
+      "W Carolina",
+      "Western Carolina",
+      "Western Carolina Catamounts",
+      "Western Carolina SC"
+    ]
+  },
+  "Western Illinois Leathernecks": {
+    "variations": [
+      "W Illinois",
+      "Western Illinois",
+      "Western Illinois Leathernecks",
+      "Western Illinois OVC"
+    ]
+  },
+  "Western Kentucky Hilltoppers": {
+    "variations": [
+      "WKU",
+      "Western Kentucky",
+      "Western Kentucky CUSA",
+      "Western Kentucky Hilltoppers"
+    ]
+  },
+  "Western Michigan Broncos": {
+    "variations": [
+      "W Michigan",
+      "Western Michigan",
+      "Western Michigan Broncos",
+      "Western Michigan MAC"
+    ]
+  },
+  "Wichita St Shockers": {
+    "variations": [
+      "Wichita St",
+      "Wichita St Shockers",
+      "Wichita St.",
+      "Wichita St. Amer",
+      "Wichita State",
+      "Wichita State Shockers"
+    ]
+  },
+  "William & Mary Tribe": {
+    "variations": [
+      "William & Mary",
+      "William & Mary CAA",
+      "William & Mary Tribe"
+    ]
+  },
+  "Winthrop Eagles": {
+    "variations": [
+      "Winthrop",
+      "Winthrop BSth",
+      "Winthrop Eagles"
+    ]
+  },
+  "Wisconsin Badgers": {
+    "variations": [
+      "Wisconsin",
+      "Wisconsin B",
+      "Wisconsin Badgers"
+    ]
+  },
+  "Wofford Terriers": {
+    "variations": [
+      "Wofford",
+      "Wofford SC",
+      "Wofford Terriers"
+    ]
+  },
+  "Wright St Raiders": {
+    "variations": [
+      "Wright St",
+      "Wright St Raiders",
+      "Wright St.",
+      "Wright St. Horz",
+      "Wright State",
+      "Wright State Raiders"
+    ]
+  },
+  "Wyoming Cowboys": {
+    "variations": [
+      "Wyoming",
+      "Wyoming Cowboys",
+      "Wyoming MWC"
+    ]
+  },
+  "Xavier Musketeers": {
+    "variations": [
+      "Xavier",
+      "Xavier BE",
+      "Xavier Musketeers"
+    ]
+  },
+  "Yale Bulldogs": {
+    "variations": [
+      "Yale",
+      "Yale Bulldogs",
+      "Yale Ivy"
+    ]
+  },
+  "Youngstown St Penguins": {
+    "variations": [
+      "Youngstown St",
+      "Youngstown St Penguins",
+      "Youngstown St.",
+      "Youngstown St. Horz",
+      "Youngstown State",
+      "Youngstown State Penguins"
+    ]
+  }
+}
