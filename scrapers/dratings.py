@@ -22,7 +22,6 @@ def fetch_dratings():
         print("No table found on the page.")
         return pd.DataFrame()
     
-    # Parse table HTML with pandas using StringIO
     table_html = str(table)
     html_io = StringIO(table_html)
     
@@ -33,9 +32,6 @@ def fetch_dratings():
             return pd.DataFrame()
             
         df = tables[0]
-        # Print column names and types for debugging
-        print("Column names:", df.columns.tolist())
-        print("\nColumn types:\n", df.dtypes)
         return df
         
     except Exception as e:
@@ -82,19 +78,31 @@ def clean_dratings(df):
     df_clean['Away Team Win Probability'] = pd.to_numeric(win_extracted['AwayWinPct'], errors='coerce')
     df_clean['Home Team Win Probability'] = pd.to_numeric(win_extracted['HomeWinPct'], errors='coerce')
     
-    # Extract spreads
-    spread_pattern = r'(?P<AwaySpread>[+-]?\d+½?)\s*[-+]\d+\s*(?P<HomeSpread>[+-]?\d+½?)\s*[-+]\d+'
     try:
-        spread_extracted = df_clean['best_spread'].str.extract(spread_pattern)
+        def extract_spreads(spread_text):
+            # Updated pattern to match the exact format in the image
+            # Matches patterns like "+4-110" or "-2½-110"
+            pattern = r'([+-](?:\d+½?|\d+))-\d+'
+            spreads = re.findall(pattern, spread_text)
+            
+            if len(spreads) >= 2:
+                return spreads[0], spreads[1]
+            return np.nan, np.nan
+        
+        # Apply the extraction to each row
+        spreads_result = df_clean['best_spread'].apply(extract_spreads)
+        away_spreads = [x[0] for x in spreads_result]
+        home_spreads = [x[1] for x in spreads_result]
         
         # Convert spreads to float, handling '½' as 0.5
         def convert_spread(x):
             if pd.isnull(x):
                 return np.nan
-            return float(x.replace('½', '.5')) if '½' in x else float(x)
+            return float(str(x).replace('½', '.5')) if '½' in str(x) else float(x)
         
-        df_clean['Away Team Spread'] = spread_extracted['AwaySpread'].apply(convert_spread)
-        df_clean['Home Team Spread'] = spread_extracted['HomeSpread'].apply(convert_spread)
+        df_clean['Away Team Spread'] = [convert_spread(x) for x in away_spreads]
+        df_clean['Home Team Spread'] = [convert_spread(x) for x in home_spreads]
+        
     except Exception as e:
         print(f"Error processing spreads: {str(e)}")
         df_clean['Away Team Spread'] = np.nan
